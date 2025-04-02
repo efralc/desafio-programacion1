@@ -10,7 +10,7 @@ El programa realiza la suma de dos números utilizando un **arreglo y un bucle `
 ### 🔹 Desafío 2 - Cálculo del área de un rectángulo  
 El programa calcula el **área de un rectángulo** con valores predefinidos e imprime el resultado de manera clara y explicativa.  
 
-## 🛠️ Tecnologías utilizadas  
+## 🛠️ Lenguaje Utilizado  
 - **Lenguaje:** C  
 - **Compilador:** GCC  
 - **Entorno recomendado:** CodeBlocks, VS Code o cualquier terminal con GCC instalado 
