@@ -1,16 +1,17 @@
 # desafio-programacion1
 
-# Desafío 1 - Suma de dos números  
-Este repositorio contiene la solución al Desafío 1 de Programación 1.  
+Este repositorio contiene la solución a los **Desafíos 1 y 2** de Programación 1.  
 
 ## 📌 Descripción  
-El programa realiza la suma de dos números utilizando un arreglo y un bucle `for`, en lugar de una simple suma directa, para hacerlo más dinámico.  
+
+### 🔹 Desafío 1 - Suma de dos números  
+El programa realiza la suma de dos números utilizando un **arreglo y un bucle `for`**, en lugar de una simple suma directa, para hacerlo más dinámico y flexible.  
+
+### 🔹 Desafío 2 - Cálculo del área de un rectángulo  
+El programa calcula el **área de un rectángulo** con valores predefinidos e imprime el resultado de manera clara y explicativa.  
 
 ## 🛠️ Tecnologías utilizadas  
-- Lenguaje: C  
-- Herramientas: GCC para compilación  
-
-## 🚀 Cómo ejecutar el código  
-1. Clona este repositorio:  
-   ```sh
+- **Lenguaje:** C  
+- **Compilador:** GCC  
+- **Entorno recomendado:** CodeBlocks, VS Code o cualquier terminal con GCC instalado 
   
